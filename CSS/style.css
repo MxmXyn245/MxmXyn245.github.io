@@ -1,0 +1,38 @@
+body {
+  font-family: Open Sans, sans-serif;
+}
+
+
+.center-img 
+{
+  text-align: center;
+}
+
+table, th, td
+{
+  border: 2px solid black;
+}
+
+table
+{
+  border-collapse: collapse;
+}
+
+th
+{
+
+}
+marquee 
+{
+   width: 100%;
+   padding: 10px 0;
+   background-color: lightblue;
+}
+
+/* .wrapper {
+  background: linear-gradient( to right, blue, red);
+  color: #fff;
+  padding: 20px;  
+  text-align: center;
+  font-size: 30px;
+} */

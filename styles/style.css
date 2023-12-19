@@ -1,0 +1,52 @@
+body
+{
+  background-color: green;
+}
+
+
+.center-img 
+{
+  text-align: center;
+}
+
+marquee 
+{
+   width: 100%;
+   padding: 10px 0;
+   background-color: lightblue;
+   width: 270;
+}
+
+table, th, td
+{
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+.td1
+{
+  background-color: violet;
+}
+
+.td2
+{
+  background-color: aquamarine;
+}
+
+.Type1
+{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+  background-color: lightblue;
+  width: 1020;
+  position: relative;
+  left: 500;
+}
+
+.Type2
+{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+  background-color: lightblue;
+  width: 210;
+  position: relative;
+  left: 915;
+}
